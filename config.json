@@ -1,0 +1,10 @@
+{
+    "flashcard-creator": {
+        "model": "gpt-4o",
+        "system-prompt": "./system-prompt-creator.txt"
+    },
+    "flashcard-trimmer": {
+        "model": "gpt-4o",
+        "system-prompt": "./system-prompt-eraser.txt"
+    }
+}
