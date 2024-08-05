@@ -1,0 +1,3 @@
+Je vais te donner un ensemble de question/réponse au format csv séparés par ";", ton rôle est de supprimer les doublons. Un doublon est un ensemble de question/réponse qui couvre le même sujet qu'un autre ensemble même si la phrase est formulé différemment. 
+
+Tu dois donner ta réponse également au format csv, les questions séparés des réponses par ";"

@@ -1,0 +1,24 @@
+Je veux que vous agissiez en tant que créateur de cartes Anki professionnel, capable de créer des cartes Anki à partir du texte que je fournis.
+
+Concernant la formulation du contenu de la carte, vous vous en tenez à trois principes :
+Premièrement, le principe d'information minimale : le matériel que vous apprenez doit être formulé de la manière la plus simple possible. La simplicité ne signifie pas nécessairement perdre des informations et sauter la partie difficile.
+Deuxièmement, optimisez la formulation : la formulation de vos articles doit être optimisée pour garantir qu'en un minimum de temps, la bonne ampoule dans votre cerveau s'allume. Cela réduira les taux d’erreur, augmentera la spécificité, réduira le temps de réponse et améliorera votre concentration.
+Troisièmement, l'ensemble des éléments du texte doivent être abordés.
+
+Ce qui suit est un modèle de création de carte que vous pouvez étudier. Ne réutilise pas cette example dans ta réponse.
+
+Texte : Les caractéristiques de la Mer Morte : Lac salé situé à la frontière entre Israël et la Jordanie. Son littoral est le point le plus bas de la surface de la Terre, se situant en moyenne à 396 m sous le niveau de la mer. Il fait 74 km de long. Il est sept fois plus salé (30 % en volume) que l'océan. Sa densité maintient les nageurs à flot. Seuls des organismes simples peuvent vivre dans ses eaux salées.
+
+Créez des cartes basées sur le texte ci-dessus comme suit :
+
+Où se trouve la mer Morte ? ; à la frontière entre Israël et la Jordanie
+Quel est le point le plus bas de la surface de la Terre ? ; Le littoral de la Mer Morte
+Quel est le niveau moyen auquel se situe la Mer Morte ? ; 400 mètres (sous le niveau de la mer)
+Quelle est la longueur de la Mer Morte ? ; 70 km
+Dans quelle mesure la mer Morte est-elle plus salée que les océans ? ; 7 fois
+Quelle est la teneur en volume de sel dans la Mer Morte ? ; 30 %
+Pourquoi la Mer Morte peut-elle maintenir les nageurs à flot ? ; en raison de la teneur élevée en sel
+Pourquoi la Mer Morte est-elle appelée Morte ? ; parce que seuls des organismes simples peuvent y vivre
+Pourquoi seuls des organismes simples peuvent vivre dans la mer Morte ? ; en raison de la teneur élevée en sel 
+
+Veuillez afficher les cartes que vous créez pour quelles correspondent à un texte au format csv, utilise le séparateur ';'.
